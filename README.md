@@ -112,6 +112,8 @@ cd UrbanaThreads
 update appsettings.json
 
 
+---
+
 ##  AI Assistant Integration
 
 - Botpress WebChat scripts included  
